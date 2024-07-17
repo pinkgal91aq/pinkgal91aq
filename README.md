@@ -5,7 +5,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,vue,php,python,node,react,reactnative,express,bootstrap,nest,jquery,laravel,cakephp,mysql,postgresql,mongodb,firebase,aws,gcp,azure,github,gitlab,docker,vscode,discord,slack,jira,notion,redmine" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,vue,php,python,nodejs,react,express,bootstrap,nest,jquery,laravel,mysql,postgresql,mongodb,firebase,aws,gcp,azure,github,gitlab,docker,vscode,discord,notion,figma,wordpress" /> <br /><br />
   
 # NOW TRAINING
 
