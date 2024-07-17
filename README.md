@@ -9,7 +9,7 @@
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,django,docker,vscode,github" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,typescript,ruby,mysql,laravel,django,docker,vscode,github" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
