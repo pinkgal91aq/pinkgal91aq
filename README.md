@@ -2,11 +2,11 @@
 ### Just 27 years old 
 ### Feel free to contact me anytime!👍
 #
-![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?pinkgal91aq=Foo_name&show_icons=true&theme=vue-dark)
+![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkgal91aq&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?pinkgal91aq=Foo_name&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkgal91aq&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?pinkgal91aq=Foo_name&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pinkgal91aq&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 # NOW TRAINING
 
