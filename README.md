@@ -5,19 +5,16 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,github,vscode,docker,laravel,cakephp,discord,php,gitlab,jquery,aws,vite" /> <br /><br />
-
-  ※Another skill and tools
-  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,vue,php,python,node,react,reactnative,express,bootstrap,nest,jquery,laravel,cakephp,mysql,postgresql,mongodb,firebase,aws,gcp,azure,github,gitlab,docker,vscode,discord,slack,jira,notion,redmine" /> <br /><br />
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,django,docker,vscode,github" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
 
-<br><br><br>
+<br><br>
 
 <div align="center">
     <h1>
